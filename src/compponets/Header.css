@@ -1,0 +1,52 @@
+.Header {
+  background: #ffffff;
+  padding: 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo h1 {
+  font-family: Montserrat;
+  font-size: 34px;
+  font-weight: 700;
+}
+.logo img {
+  padding-right: 10px;
+}
+.link {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+.link a {
+  color: #000000;
+  text-decoration: none;
+  padding-right: 30px;
+  transition: 0.4s;
+}
+.link a:hover {
+  color: #b88e2f;
+}
+.icon button {
+  padding-right: 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding-left: 20px;
+}
+.icon img {
+  font-size: 1.3em;
+}

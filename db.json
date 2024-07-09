@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imegs": "https://frankfurt.apollo.olxcdn.com/v1/files/zs9cx8anw0uv2-UZ/image;s=2500x1767",
+      "title": "Syltherine ",
+      "body": "Stylish cafe chair",
+      "price": "Rp 2.500.000"
+    },
+    {
+      "id": 2,
+      "imegs": "https://avatars.mds.yandex.net/get-altay/4612894/2a00000180a6dce1c532df8b2473e3992d4c/L_height",
+      "title": "Leviosa",
+      "body": "Stylish cafe chair",
+      "price": "Rp 2.500.000"
+    },
+    {
+      "id": 3,
+      "imegs": "https://smebel.uz/files/proekti/gostinie/045.jpg",
+      "title": "Lolito",
+      "body": "Luxury big sofa",
+      "price": "Rp 7.000.000"
+    },
+    {
+      "id": 4,
+      "imegs": "https://muborakmebel.uz/images/categories/spalnaya-mebel.jpg",
+      "title": "Lolito",
+      "body": "Luxury big sofa",
+      "price": "Rp 7.000.000"
+    },
+    {
+      "id": 5,
+      "imegs": "https://www.stilkuhni.ru/upload/iblock/e3a/rzavqydh3x7z11me9rbw70gmfl9gaq8a/Bedroom_New-Riga_3720-790x500_3.jpg",
+      "title": "Syltherine ",
+      "body": "Stylish cafe chair",
+      "price": "Rp 2.500.000"
+    },
+    {
+      "id": 6,
+      "imegs": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr66f3FUkyh-UAXxHdbkQvQgMP1CYSWMZJiA&s",
+      "title": "Leviosa",
+      "body": "Stylish cafe chair",
+      "price": "Rp 2.500.000"
+    },
+    {
+      "id": 7,
+      "imegs": "https://turkmenportal.com/images/uploads/images/news/2022/6/08/261111084_394537442353315_2063934754638853121_n.jpg",
+      "title": "Lolito",
+      "body": "Luxury big sofa",
+      "price": "Rp 7.000.000"
+    },
+    {
+      "id": 8,
+      "imegs": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHQP6GpuB-HaizZtz6vo9r9TORc60xPaaxg&s",
+      "title": "Lolito",
+      "body": "Luxury big sofa",
+      "price": "Rp 7.000.000"
+    }
+  ]
+}
